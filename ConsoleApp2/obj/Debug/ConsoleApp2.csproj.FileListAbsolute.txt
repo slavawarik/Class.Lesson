@@ -5,3 +5,10 @@ C:\Users\slavawarik\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.e
 C:\Users\slavawarik\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
 C:\Users\slavawarik\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
 C:\Users\slavawarik\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Repository\Class.lesson\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Repository\Class.lesson\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Repository\Class.lesson\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Repository\Class.lesson\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+C:\Repository\Class.lesson\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Repository\Class.lesson\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Repository\Class.lesson\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

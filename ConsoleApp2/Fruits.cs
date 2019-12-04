@@ -8,7 +8,7 @@ public class Fruits
               public string color;
               public string storage_life;
 
-              public void Info()
+              public void FruitsInfo()
               {
               Console.WriteLine($"Название: {this.name} Цвет: {color} Срок годности: {storage_life}");
               }
